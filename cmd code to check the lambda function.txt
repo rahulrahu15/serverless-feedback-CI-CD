@@ -1,0 +1,1 @@
+curl -X POST https://3qmhryjei9.execute-api.ap-south-1.amazonaws.com/SubmitFeedbackFunction -H "Content-Type: application/json" -d "{\"name\":\"Test\",\"entry_number\":\"123\",\"email\":\"test@email.com\",\"feedback\":\"Great job\"}"

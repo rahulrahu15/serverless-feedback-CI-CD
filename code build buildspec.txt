@@ -1,0 +1,6 @@
+version: 0.2
+phases:
+  build:
+    commands:
+      - aws configure set region ap-south-1
+      - aws cloudfront create-invalidation --distribution-id E3H6K8DH9IR00A --paths "/*"
