@@ -42,9 +42,10 @@ CloudWatch Logs
 ## 📁 Project Structure
 
 ├── index.html # Static feedback form UI
-├── lambda/handler.py # Python Lambda function
-├── buildspec.yml # CodeBuild config (for invalidation)
+├── lambda.txt # Python Lambda function
+├── buildspec.txt # CodeBuild config (for invalidation)
 ├── README.md # You're reading it!
+├── CMD.txt #use it to check the feedback
 
 
 ---
