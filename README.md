@@ -76,7 +76,7 @@ Watch logs live in CloudWatch!
 ## 📸 Screenshots
 
 
--   
+- Architecture diagram  
 - CloudWatch dashboard  
 - CodePipeline in action
 
